@@ -9,10 +9,10 @@ Aplikasi Instagram Downloader dibuat dengan bahasa python versi 2 CLI
 # Installation
 Use Versi Python2 :
 ```
-$ git clone
+$ git clone https://github.com/zahidin/instagram-downloader.git
 $ cd instagram-downloader/
 $ python instagram-downloader.py
 ```
-#Screenshot
+# Screenshot
 
 ![alt text](https://preview.ibb.co/nAsfoA/instagram-downloader.png)
