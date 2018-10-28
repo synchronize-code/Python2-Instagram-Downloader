@@ -1,4 +1,4 @@
-# instagram-downloader
+# Instagram Downloader With Python
 
 Aplikasi Instagram Downloader dibuat dengan bahasa python versi 2 CLI
 
