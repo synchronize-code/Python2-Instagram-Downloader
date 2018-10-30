@@ -29,10 +29,9 @@ $ nodemon index.js
 
 ![alt text](https://preview.ibb.co/nAsfoA/instagram-downloader.png)
 
-# Screenshot NodeJs 
-## Get All Link With Username
+# Screenshot NodeJs Method Get All Link With Username
 ![alt text](https://image.ibb.co/hcrJdL/API-IG-Downloader-GET.png)
-## POST Single Link
+# Screenshot NodeJs Method POST Single Link
 ![alt text](https://image.ibb.co/jZ1OCf/API-IG-Downloader-POST.png)
 
 
